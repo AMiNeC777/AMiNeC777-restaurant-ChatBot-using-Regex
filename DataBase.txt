@@ -1,0 +1,60 @@
+menu|carte|plats? du jour|specialite|suggestion: Voici notre menu. Nous proposons des entrées, plats principaux, et desserts, ainsi qu’une spécialité du jour.
+heure|horaires|ouverture|fermeture: Nos horaires sont de 11h à 23h tous les jours.
+prix|cout|tarif|combien.*plats?|menu|repas|prix moyen: Les prix varient entre 10€ et 30€ en fonction des plats.
+table|reservation|reserver|places?|disponibilite|libre: Oui, nous avons des tables disponibles. Voulez-vous faire une réservation ?
+livraison|livrez|faire livrer|livrer a domicile: Oui, nous proposons la livraison dans un rayon de 10 km autour du restaurant.
+adresse|location|ou.*se trouver|sommes-nous|restaurant: Notre adresse est n195 Rue de ain l atti 2 ,Errachidia.
+plats?|repas|recommandations?|suggestions?|conseils?|specialite: Nous recommandons notre spécialité du jour le risotto aux champignons truffés.
+bonjour|salut|hey|coucou|bonsoir: Bonjour ! Comment puis-je vous aider aujourd'hui ?
+emporter|prendre a emporter|commande a emporter: Oui, vous pouvez commander à emporter. Voulez-vous connaître les plats disponibles ?
+paiement|payer|mode de paiement|moyen de paiement|facturation.*espèces|carte|cash|carte bancaire: Nous acceptons les paiements en espèces, par carte, et via applications de paiement mobile.
+commander en ligne|commander sur internet|commande internet|commande en ligne: Oui, vous pouvez passer une commande en ligne via notre site web.
+facilites? d'acces|accès fauteuil roulant|acces handicape: Notre restaurant est accessible aux fauteuils roulants.
+plats? vegan|options? vegan|vegan friendly|plats végétariens|menu vegan: Nous proposons des options vegan et végétariennes. Voulez-vous que je vous les décrive ?
+plats? sans gluten|options? sans gluten|gluten free|allergie gluten: Nous avons des plats sans gluten pour les personnes intolérantes.
+menu enfants?|options? enfants?|repas pour enfant|menu pour enfants: Nous offrons un menu spécialement conçu pour les enfants.
+plats? du jour|suggestions? du jour|menu du jour|recommandation du jour: Notre plat du jour est un délicieux risotto aux champignons.
+happy hour|promotions?|reductions?|offres speciales?|offres du moment: Nous proposons un Happy Hour de 17h à 19h avec des réductions sur les boissons.
+petits dejeuner|breakfast|dejeuner du matin|ouvrir pour le petit dejeuner: Nous servons des petits déjeuners tous les jours jusqu'à 11h.
+allergies?|allergenes?|ingredients allergenes?: Merci de nous informer de vos allergies alimentaires, et nous vous conseillerons des plats adaptés.
+animaux acceptes?|chiens? acceptés?|pets? friendly|venir avec mon chien: Les animaux sont les bienvenus dans notre restaurant, tant qu'ils sont bien comportés.
+anniversaire|feter anniversaire|evenement special|occasion speciale: Nous serons ravis de vous aider à célébrer un anniversaire ! Nous proposons des gâteaux et une décoration festive.
+cadeau|offrir un repas|bons cadeaux?|cartes cadeaux?: Oui, nous proposons des cartes cadeaux. Parfait pour offrir une belle expérience culinaire.
+feter noel|diner de noel|menu de noel|offre de noel: Nous proposons un menu spécial pour Noël ! Contactez-nous pour plus de détails.
+feter nouvel an|menu de nouvel an|offre nouvel an: Notre menu du Nouvel An est festif et délicieux ! Réservez dès maintenant.
+reduction etudiant|tarifs etudiants|offre etudiant: Nous offrons une réduction de 10% pour les étudiants, avec une carte valide.
+carte fidelite|points fidelite|programme de fidelite|avantages fidelite: Nous avons un programme de fidélité pour nos clients réguliers. Renseignez-vous auprès de notre personnel.
+reservation en ligne|reserver en ligne|reserver sur internet|reserver via internet: Vous pouvez faire une réservation directement sur notre site internet.
+carte bancaire|carte de credit|paiement carte bancaire: Nous acceptons les paiements par carte bancaire.
+cuisine ouverte?|voir cuisine|visite de cuisine: Oui, nous avons une cuisine ouverte pour que vous puissiez voir nos chefs à l’œuvre.
+moyen de transport|venir en transport|parking disponible|stationnement: Un parking est disponible à proximité, et nous sommes accessibles en transports en commun.
+desserts? special|patisseries?|patisseries maison|options de dessert: Nos desserts sont faits maison. Essayez notre mousse au chocolat ou notre tarte aux fruits !
+horaires de livraison|quand livrez-vous|temps de livraison|zone de livraison: Nous livrons tous les jours de 11h à 22h dans un rayon de 10 km.
+duree repas|temps de service|combien de temps attendre: En moyenne, un repas prend environ une heure.
+wifi disponible?|connexion wifi|wifi gratuit|internet gratuit: Oui, nous proposons un accès Wi-Fi gratuit pour nos clients.
+options halal|plats? halal|menu halal: Nous avons des options halal disponibles. Demandez à notre personnel pour plus de détails.
+options casher|plats? casher|menu casher: Nous avons des plats casher disponibles sur demande.
+telephone perdu|perte telephone|objets trouvés?|perte de mon portefeuille: Si vous avez perdu un objet, veuillez contacter notre personnel.
+plat a emporter?|prends à emporter|plat a emporter disponible: Oui, vous pouvez emporter nos plats. Passez commande et récupérez-la sur place.
+carte des vins?|boissons alcoolisées?|boissons disponibles?|menu des boissons: Nous avons une carte des vins et de nombreuses boissons. Voulez-vous voir notre sélection ?
+boissons sans alcool?|boissons pour enfants?|jus de fruits?: Nous avons une variété de boissons sans alcool, y compris des jus de fruits frais.
+livraison a domicile|delivrez chez moi?|livraison rapide?: Oui, nous livrons dans les 10 km autour du restaurant. Passez commande pour plus de détails.
+attente?|temps d'attente?|attente pour une table?: Le temps d'attente dépend de l'affluence, mais nous faisons de notre mieux pour vous servir rapidement.
+terrasse?|manger en terrasse?|sieges exterieurs?: Nous avons une terrasse où vous pouvez profiter de votre repas en extérieur.
+menu degustation|offres degustation|plateaux degustation: Nous proposons un menu dégustation pour découvrir plusieurs de nos spécialités.
+cheque restaurant?|ticket restaurant?|paiement en tickets resto?: Oui, nous acceptons les chèques et tickets restaurant.
+hygiene?|normes hygiene|mesures sanitaires?: Nous suivons des normes d’hygiène strictes pour garantir votre sécurité.
+plats chauds?|repas chauds?|options chaudes?: Tous nos plats sont servis chauds pour un maximum de fraîcheur.
+travaillez ici?|recrutement?|offres d'emploi?|postes disponibles?: Nous recrutons régulièrement. N'hésitez pas à déposer votre CV au restaurant.
+voir photos?|photos plats?|menu en photos?: Vous pouvez consulter notre galerie de photos sur notre site web ou sur nos réseaux sociaux.
+faire du bruit?|enfants bruyants|enfants bienvenus?: Les enfants sont les bienvenus ! Nous avons un espace adapté aux familles.
+changement menu?|modification menu?|menu modifié?: Nous changeons notre menu en fonction des saisons et des produits frais disponibles.
+menu brunch?|servir brunch?|brunch disponible?: Nous servons un brunch les dimanches de 10h à 14h.
+plats epices?|plats pimentés?|menu épicé?: Oui, nous avons des plats épicés ! N’hésitez pas à demander des options plus douces si besoin.
+reservation groupe?|table de groupe?|reservations en groupe?: Nous acceptons les réservations de groupe, contactez-nous pour plus de détails.
+menu saisonnier?|plats de saison?|changement avec les saisons?: Notre menu est saisonnier et change régulièrement pour utiliser les ingrédients les plus frais.
+portions enfants?|menu enfant?|taille de portion pour enfants?: Nous avons des portions spécialement adaptées pour les enfants.
+cheque cadeau?|carte cadeau?|offre carte cadeau?: Oui, nous proposons des chèques-cadeaux pour offrir une expérience unique.
+tarte maison?|gateaux maison?|desserts faits maison?: Nos desserts sont faits maison avec des ingrédients de qualité.
+pizza|salad|lmsemen: Oui,il est disponible avec atay gratuit.
+
